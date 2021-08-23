@@ -1,3 +1,3 @@
-# Zenn CLI
+# Zenn contents
 
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+→ [https://zenn.dev/syuzuki](https://zenn.dev/syuzuki)
